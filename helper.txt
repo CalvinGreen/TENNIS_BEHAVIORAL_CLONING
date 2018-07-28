@@ -1,7 +1,5 @@
 
-Desktop/ml-agents-master/ml-agents-master/unity-environment/Assets/ML-Agents/Examples
-Desktop/ml-agents-master/ml-agents-master/unity-environment/Assets/ML-Agents/Examples/Tennis/Scenes
 python Desktop/ml-agents-master/ml-agents-master/python/learn.py --train --slow
-python Desktop/ml-agents-master/ml-agents-master/python/learn.py Desktop/ml-agents-master/ml-agents-master/python/PYRAMIDS.exe  --runid=PYrun --train
 
-python Desktop/ml-agents-master/ml-agents-master/python/learn.py Desktop/ml-agents-master/ml-agents-master/python/TENNIS.exe --runid=Desktop/ml-agents-master/ml-agents-master/python/firstRun --train --slow
+
+python Desktop/ml-agents-master/ml-agents-master/python/learn.py Desktop/ml-agents-master/ml-agents-master/python/TENNIS.exe --runid=firstRun --train --slow
