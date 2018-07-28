@@ -1,3 +1,8 @@
+### DEPENDENCIES REQUIRED FOR THE GIVEN EXECUTABLE: 
+### -UNITY/UNITY_ML-AGENTS,
+### -PYTHON3.6, 
+### -TENSORFLOW/TENSORFLOW_SHARP PLUGIN 
+
 <img src="docs/images/unity-wide.png" align="middle" width="3000"/>
 
 # Unity ML-Agents Toolkit (Beta)
